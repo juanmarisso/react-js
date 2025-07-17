@@ -1,4 +1,3 @@
-
 const products = [
   { id: 1, name: "Fertilizante A", category: "fertilizantes", price: 10 },
   { id: 2, name: "Lampara LED", category: "iluminacion", price: 15 },
